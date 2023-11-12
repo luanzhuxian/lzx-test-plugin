@@ -2,7 +2,7 @@
   "name": "lzx-test-plugin",
   "version": "5.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/browser/lzx-test-plugin.min.js",
   "module": "dist/esm/lzx-test-plugin.js",
   "scripts": {
     "build": "rollup -c"
